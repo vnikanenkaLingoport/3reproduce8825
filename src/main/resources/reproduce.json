@@ -1,11 +1,11 @@
 {
   "name": "John",
   "surname": "Doe",
-  "age": 30,
+  "age": "30",
   "address": {
     "street": "Main",
-    "house": 12,
-    "apartment": 34
+    "house": "12",
+    "apartment": "34"
   },
   "phone": "+1 123 456 78 90",
   "email": "johndoe@example.com",
